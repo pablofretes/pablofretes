@@ -14,6 +14,8 @@ Soy FullStack Web Developer.
 [![Git Badge](https://img.shields.io/badge/-GIT-f1502f?style=for-the-badge&labelColor=black&logo=git&logoColor=f1502f)](#)
 [![Redux Badge](https://img.shields.io/badge/-redux-764abc?style=for-the-badge&labelColor=black&logo=redux&logoColor=764abc)](#)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablofretes&show_icons=true&theme=dark&title_color=ff0066&locale=en" alt="pablofretes" /></p>
+
 ### Contactame
 
 - pablofretes.balzarelli@gmail.com :mailbox: 
