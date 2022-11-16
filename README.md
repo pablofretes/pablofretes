@@ -21,4 +21,3 @@ I'm a FullStack Developer.
 
 - pablofretes.balzarelli@gmail.com :mailbox: 
 - [CV](/E-CV-FRETES-BALZARELLI-PABLO.pdf) :paperclip:
-- [Portfolio](https://pablofretes.github.io/portfolio/)
