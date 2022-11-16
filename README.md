@@ -14,9 +14,6 @@ I'm a FullStack Developer.
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-F06529?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=F06529)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-css3-2a6592?style=for-the-badge&labelColor=black&logo=css3&logoColor=2a6592)](#)
 [![Redux Badge](https://img.shields.io/badge/-redux-764abc?style=for-the-badge&labelColor=black&logo=redux&logoColor=764abc)](#)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablofretes&show_icons=true&theme=dark&title_color=ff0066&locale=en" alt="pablofretes" /></p>
-
 ### Contact Me!
 
 - pablofretes.balzarelli@gmail.com :mailbox: 
